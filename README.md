@@ -39,7 +39,7 @@
 ### Cloud & DevOps  
 ![Terraform](https://img.shields.io/badge/IaC-4B275F?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 ### Others  
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -81,7 +81,7 @@
 
 - 📧 **Email:** andresmao205@gmail.com  
 - 💼 **LinkedIn:** [Andres Agudelo](https://www.linkedin.com/in/andres-mauricio-agudelo-elorza-906728258)  
-- 🐙 **GitHub:** [Andresmao12](https://github.com/Andresmao12)
+
 
 ### Other Contact Channels 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andres%20Agudelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-mauricio-agudelo-elorza-906728258)
